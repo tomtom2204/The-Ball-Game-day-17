@@ -22,3 +22,19 @@ h1 {
     transition: all 1s;
 
 }
+
+.ball2{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(49, 226, 43);
+    margin: 0 auto;
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: all 1s;
+}
